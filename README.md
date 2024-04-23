@@ -8,5 +8,6 @@
 
 
 ## 视频
+- [杨旭 - Rust编程语言入门教程](https://www.bilibili.com/video/BV1hp4y1k7SV/){:target="_blank"}
 - <a href="https://www.bilibili.com/video/BV1hp4y1k7SV/" target="_blank">杨旭 - Rust编程语言入门教程</a>
   - 课程内容和《Rust程序设计语言》大体一致
